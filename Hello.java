@@ -4,7 +4,5 @@ public class HelloWorld{
 	
 		System.out.printf(%s, "Hello World!");
 		
-		System.out.println("New change");
-		
 	}
 }	
